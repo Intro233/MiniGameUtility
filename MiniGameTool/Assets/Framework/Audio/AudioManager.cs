@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//要开启暂停恢复渐近效果需依赖DoTween
 namespace Framework.Audio
 {
     public delegate void AudAction();
