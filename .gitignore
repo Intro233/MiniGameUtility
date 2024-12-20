@@ -1,0 +1,10 @@
+
+MiniGameTool/.idea
+MiniGameTool/Library
+MiniGameTool/Logs
+MiniGameTool/obj
+MiniGameTool/UserSettings
+*.csproj
+*.sln
+*.user
+MiniGameTool/Temp
